@@ -1,0 +1,31 @@
+Apa warna dari sayur jagung?
++Merah
++Biru
++Kuning
++Hitam
++C
+#Manakah sayur dibawah ini yang memiliki warna orange?
++Wortel
++Kubis
++Tomat
++Terong
++A
+#Aku berbentuk bulat dan aku berwarna merah. sayur apakah aku?
++Jagung
++Tomat
++Kubis
++Terong
++B
+#Aku adalah salah satu sayur yang memiliki warna hijau dan rasaku pahit. sayur apakah aku?
++Wortel
++Terong
++Kubis
++Pare
++D
+#Sayur apa yang memiliki warna ungu?
++Terong
++Tomat
++Timun
++Jamur
++A
+
